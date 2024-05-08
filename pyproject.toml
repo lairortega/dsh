@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "pipeline-vulnerabilities-threshold"
+version = "0.0.1"
+description = ""
+authors = ["IA Interactive"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.94.1"
